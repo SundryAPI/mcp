@@ -46,8 +46,7 @@ if (!SUNDRY_APPLICATION_API_KEY) {
 }
 
 /**
- * Create an MCP server with capabilities for resources (to list/read notes),
- * tools (to create new notes), and prompts (to summarize notes).
+ * Create an MCP server
  */
 const server = new Server(
   {
