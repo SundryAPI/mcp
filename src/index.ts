@@ -66,7 +66,7 @@ const server = new Server(
  * Construct our axios instance for accessing Sundry
  */
 const axiosInstance = axios.create({
-  baseURL: "http://127.0.0.1:3002/v1",
+  baseURL: "https://getsundry.app/v1",
   headers: {
     'Authorization': `Bearer ${SUNDRY_USER_API_KEY}`,
     'X-API-Key': SUNDRY_APPLICATION_API_KEY
