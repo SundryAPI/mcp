@@ -4,6 +4,11 @@
   "description": "The official Sundry MCP server",
   "private": true,
   "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SundryAPI/mcp.git"
+  },
   "bin": {
     "Sundry": "build/index.js"
   },
