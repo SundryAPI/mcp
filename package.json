@@ -2,7 +2,7 @@
   "name": "Sundry",
   "version": "0.1.0",
   "description": "The official Sundry MCP server",
-  "private": true,
+  "private": false,
   "type": "module",
   "license": "MIT",
   "repository": {
