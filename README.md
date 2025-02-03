@@ -28,6 +28,12 @@ npm run watch
 
 ## Installation
 
+This package is published on NPM and can be installed by running:
+
+```
+npm install -g sundry-mcp
+```
+
 To use with Claude Desktop, add the server config:
 
 On MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
